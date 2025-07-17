@@ -1,0 +1,17 @@
+{
+    "CanBuySubscription":False,
+    "PlatformAccountSubscribedPlayerId"1,
+    "Subscription":{
+    "CreatedAt":output_date,
+    "ExpirationDate":9999-12-31T12:59:59Z,
+    "ModifiedAt":0001-01-01T01:00:00Z,
+    "IsActive":true,
+    "IsAutoRenewing":true,
+    "Level":69,
+    "Period":1,
+    "PlatformId":1,
+    "PlatformPurchaseId":1,
+    "PlatformType":-1,
+    "RecNetPlayerId"1,
+    "SubscriptionId":1
+  }
