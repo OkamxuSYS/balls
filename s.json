@@ -2513,7 +2513,7 @@
  {
     "PrefabName":"[PaintballGun]",
     "ModificationGuid":"bc4254be-60e0-4cc5-a233-6a0bd4137118",
-    "Favorited":false,
+    "Favorited":true,
     "PlatformMask":-1,
     "FriendlyName":"PaintballGun_Skin_Gold",
     "Tooltip":"",
@@ -2583,15 +2583,6 @@
     "Rarity":0
  },
  {
-    "PrefabName":"[PaintballGun]",
-    "ModificationGuid":"TpaRhLqVc02Oyr769imtnQ",
-    "Favorited":true,
-    "PlatformMask":-1,
-    "FriendlyName":"PaintballGun_Skin_Universe",
-    "Tooltip":"Okamxu Special <3",
-    "Rarity":0
- },
-  {
     "PrefabName":"[PaintballGun]",
     "ModificationGuid":"z0Xw8_BUZUODrGHSZcLHHQ",
     "Favorited":false,
