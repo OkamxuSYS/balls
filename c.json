@@ -12,6 +12,46 @@
     "ThumbnailImage": "UQj5p_3V106wsOsQetp39g.png",
     "Tooltip": null
   },
+    {
+    "AvatarItemDesc": "2e50d8d2-b7fc-44e9-a882-a58bd3b6f099,",
+    "AvatarItemId": 9503,
+    "AvatarItemType": 0,
+    "CreatedAt": "2023-08-28T23:45:38.56Z",
+    "FriendlyName": "ElsewareCloak_Shoulder",
+    "IsBaseAvatarItem": false,
+    "PlatformMask": -1,
+    "Rarity": -1,
+    "TagList": null,
+    "ThumbnailImage": "oZmL74lNG0-TtbFYvrmrCw.png",
+    "Tooltip": null
+  },
+
+{
+    "AvatarItemDesc": "50721e23-67e6-4f16-8e70-b0eccc2d9c3d,",
+    "AvatarItemId": 9503,
+    "AvatarItemType": 0,
+    "CreatedAt": "2023-08-28T23:45:38.56Z",
+    "FriendlyName": "ElsewareCloak_Shoulder",
+    "IsBaseAvatarItem": false,
+    "PlatformMask": -1,
+    "Rarity": -1,
+    "TagList": null,
+    "ThumbnailImage": "oZmL74lNG0-TtbFYvrmrCw.png",
+    "Tooltip": null
+  },
+{
+    "AvatarItemDesc": "66dcdd7c-7dee-490f-b2d6-1113daa782a7,",
+    "AvatarItemId": 9503,
+    "AvatarItemType": 0,
+    "CreatedAt": "2023-08-28T23:45:38.56Z",
+    "FriendlyName": "SCloak_Hat",
+    "IsBaseAvatarItem": false,
+    "PlatformMask": -1,
+    "Rarity": -1,
+    "TagList": null,
+    "ThumbnailImage": "oZmL74lNG0-TtbFYvrmrCw.png",
+    "Tooltip": null
+  },
   {
     "AvatarItemDesc": "35366d68-4a4d-4c2f-b3cf-0f3d2c896b91,COZbkLDc20mdUlWSkqMX-w,FwjsTo0nb0uNU6l8XvllNA",
     "AvatarItemId": 4659,
