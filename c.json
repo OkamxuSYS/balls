@@ -25,7 +25,45 @@
     "ThumbnailImage": "oZmL74lNG0-TtbFYvrmrCw.png",
     "Tooltip": null
   },
-
+   {
+    "AvatarItemDesc": "496649b5-a159-4a64-b1af-08542b2c7e1c,b2a2cb5d-27e6-4ec5-972c-a8051b65160e",
+    "AvatarItemId": 9503,
+    "AvatarItemType": 0,
+    "CreatedAt": "2023-08-28T23:45:38.56Z",
+    "FriendlyName": "TMNT_Shredder_Chrome_Shirt_Combination",
+    "IsBaseAvatarItem": false,
+    "PlatformMask": -1,
+    "Rarity": -1,
+    "TagList": null,
+    "ThumbnailImage": "oZmL74lNG0-TtbFYvrmrCw.png",
+    "Tooltip": null
+  },
+     {
+    "AvatarItemDesc": "496649b5-a159-4a64-b1af-08542b2c7e1c,62c41ca9-2ad7-43b8-8272-2cf5780cdca7",
+    "AvatarItemId": 9503,
+    "AvatarItemType": 0,
+    "CreatedAt": "2023-08-28T23:45:38.56Z",
+    "FriendlyName": "TMNT_Shredder_Chrome_Hat_Combination",
+    "IsBaseAvatarItem": false,
+    "PlatformMask": -1,
+    "Rarity": -1,
+    "TagList": null,
+    "ThumbnailImage": "oZmL74lNG0-TtbFYvrmrCw.png",
+    "Tooltip": null
+  },
+    {
+    "AvatarItemDesc": "496649b5-a159-4a64-b1af-08542b2c7e1c,16f8e23b-37d3-4021-977c-d33fb9120b7e",
+    "AvatarItemId": 9503,
+    "AvatarItemType": 0,
+    "CreatedAt": "2023-08-28T23:45:38.56Z",
+    "FriendlyName": "BB_Shredder_Wrist",
+    "IsBaseAvatarItem": false,
+    "PlatformMask": -1,
+    "Rarity": -1,
+    "TagList": null,
+    "ThumbnailImage": "oZmL74lNG0-TtbFYvrmrCw.png",
+    "Tooltip": null
+  },
 {
     "AvatarItemDesc": "50721e23-67e6-4f16-8e70-b0eccc2d9c3d,",
     "AvatarItemId": 9503,
