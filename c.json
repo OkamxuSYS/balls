@@ -13,6 +13,45 @@
     "ThumbnailImage": "cimomkml6k4toyowd1voh7hqm.png"
   },
   {
+    "AvatarItemDesc": "0dcc84e0-d43d-47e7-b83d-29cddf1a5d11,",
+    "AvatarItemType": 0,
+    "PlatformMask": -1,
+    "FriendlyName": "FB_KrampusHorns_Hat",
+    "Tooltip": null,
+    "Rarity": 30,
+    "TagList": null,
+    "AvatarItemId": 9503,
+    "IsBaseAvatarItem": false,
+    "CreatedAt": "2018-11-01T21:35:53.807Z",
+    "ThumbnailImage": "bzkxvaged4oeb5kres30cpf1l.png"
+  },
+  {
+    "AvatarItemDesc": "95f1baef-847c-4ddc-8367-55df699196d9,",
+    "AvatarItemType": 0,
+    "PlatformMask": -1,
+    "FriendlyName": "FB_Krampus_Shirt",
+    "Tooltip": null,
+    "Rarity": 30,
+    "TagList": null,
+    "AvatarItemId": 9503,
+    "IsBaseAvatarItem": false,
+    "CreatedAt": "2018-11-01T21:35:53.807Z",
+    "ThumbnailImage": "bzkxvaged4oeb5kres30cpf1l.png"
+  },
+    {
+    "AvatarItemDesc": "95f1baef-847c-4ddc-8367-55df699196d9,",
+    "AvatarItemType": 0,
+    "PlatformMask": -1,
+    "FriendlyName": "FB_Krampus_Shirt",
+    "Tooltip": null,
+    "Rarity": 30,
+    "TagList": null,
+    "AvatarItemId": 9503,
+    "IsBaseAvatarItem": false,
+    "CreatedAt": "2018-11-01T21:35:53.807Z",
+    "ThumbnailImage": "bzkxvaged4oeb5kres30cpf1l.png"
+  },
+  {
     "AvatarItemDesc": "_OWVy3z6iU-M3-zbQgSLig,D0tP58wC30mJ00vNxw8hqA,N5wN1l0tYEau5np-9PoIiA,",
     "AvatarItemType": 0,
     "PlatformMask": -1,
@@ -40227,3 +40266,4 @@
     "Rarity": 0
   }
 ]
+
