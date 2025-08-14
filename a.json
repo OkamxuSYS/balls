@@ -1,0 +1,18 @@
+{
+   "AssociatedAccountUsername" : null,
+   "BottomMessageOverride" : null,
+   "Duration" : 0,
+   "GameSessionId" : 0,
+   "IsBan" : false,
+   "IsDeviceBan" : false,
+   "IsHostKick" : false,
+   "IsVoiceModAutoban" : false,
+   "IsWarning" : false,
+   "Message" : null,
+   "PlayerIdReporter" : null,
+   "ReportCategory" : 0,
+   "ShowCreatorCodeOfConduct" : false,
+   "TimeoutStartedAt" : null,
+   "TopMessageOverride" : null,
+   "VoteKickReason" : null
+}
